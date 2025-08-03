@@ -18,7 +18,7 @@
       <td>Backend</td>
       <td>
         <a href="https://www.linkedin.com/in/alper-açıkgöz-ceng0101" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="22" height="22" style="background:white; border-radius:5px; padding:1px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" style="display:block; margin:auto;" />
         </a>
       </td>
     </tr>
@@ -31,7 +31,7 @@
       <td>Frontend</td>
       <td>
         <a href="https://www.linkedin.com/in/emine-yaren-celik-815802296/" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="22" height="22" style="background:white; border-radius:5px; padding:1px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" style="display:block; margin:auto;" />
         </a>
       </td>
     </tr>
