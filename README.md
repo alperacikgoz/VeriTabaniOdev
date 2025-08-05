@@ -1,3 +1,12 @@
+
+
+<img width="1024" height="190" alt="Adsız tasarım (2)" src="https://github.com/user-attachments/assets/bbf567c1-025a-48a3-a691-cb729a47c2a2" />
+
+
+
+
+
+
 <p align="center">
   <span style="font-size:64px; font-weight: bold; color: #27ae60;">HEARTWARE</span>
 </p>
