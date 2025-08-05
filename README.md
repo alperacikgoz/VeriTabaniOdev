@@ -118,6 +118,7 @@ Konuşarak Mesaj Yazma (Speech-to-Text): Klavyeye dokunmanıza gerek yok. Mikrof
 ## Kullanılan Teknolojiler
 
 **Backend**
+
 ● Python: Ana programlama dili.
 
 ● FastAPI: Yüksek performanslı ve modern RESTful API'ler oluşturmak için kullanılan web framework'ü.
@@ -139,6 +140,7 @@ Konuşarak Mesaj Yazma (Speech-to-Text): Klavyeye dokunmanıza gerek yok. Mikrof
 ● JWT (python-jose & passlib): Kullanıcı kimlik doğrulama ve güvenli oturum yönetimi için.
 
 **Frontend**
+
 ● React (Vite ile): Modern, hızlı ve bileşen tabanlı kullanıcı arayüzleri oluşturmak için kullanılan JavaScript kütüphanesi.
 
 ● TypeScript: Kodda tip güvenliği sağlayarak hataları azaltmak ve sürdürülebilirliği artırmak için.
