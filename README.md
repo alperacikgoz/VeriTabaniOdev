@@ -51,7 +51,6 @@
 
 ## Ürün Açıklaması
 
-Synapse: Bilgiyi Keşfet, Öğrenmeyi Dönüştür
 Saatlerinizi alan PDF'ler, yığınla ders notu ve makaleler arasında kaybolmaya son. Synapse, statik belgelerinizi, size özel yanıtlar veren, konuları özetleyen ve sizinle etkileşime giren kişisel bir yapay zeka asistanına dönüştürür. Sadece bir doküman yükleyin; karmaşık bilgiyi anlaşılır özetlere, ana başlıklara ve doğrudan, net yanıtlara dönüştüren etkileşimli yapay zekanız hemen çalışmaya başlasın. İster önemli noktaları hızla yakalayın, ister öğrenmek istediğiniz konuları derinlemesine keşfedin; Synapse ile bilgiye ulaşmak hiç bu kadar akıllı ve hızlı olmamıştı.
 Bu proje, sadece bir araç değil, öğrenme sürecine kalpten bir yaklaşımdır. Çoklu yapay zeka ajanları mimarisiyle, her bir bilgi parçasının potansiyelini ortaya çıkararak size en verimli öğrenme deneyimini sunmak için HEARTWARE ekibi tarafından tutkuyla geliştirildi.
 
