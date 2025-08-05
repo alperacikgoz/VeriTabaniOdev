@@ -25,24 +25,24 @@
     <th>Ağlar</th>
   </tr>
   <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/47280097-8cc6-458c-a496-3b55c0d420c7" width="50" height="50" style="border-radius: 10px; object-fit: cover;" alt="Alper" />
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/47280097-8cc6-458c-a496-3b55c0d420c7" width="60" height="60" style="border-radius: 50%; object-fit: cover; box-shadow: 0 2px 8px #0002;" alt="Alper" />
     </td>
     <td>Alper Açıkgöz</td>
     <td>Backend</td>
-    <td>
+    <td align="center">
       <a href="https://www.linkedin.com/in/alper-açıkgöz-ceng0101" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/cd0e47ee-8515-4f31-9155-b00b55dffc1f" width="50" height="50" style="border-radius: 10px; object-fit: cover;" alt="Yaren" />
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cd0e47ee-8515-4f31-9155-b00b55dffc1f" width="60" height="60" style="border-radius: 50%; object-fit: cover; box-shadow: 0 2px 8px #0002;" alt="Yaren" />
     </td>
     <td>Emine Yaren Çelik</td>
     <td>Frontend</td>
-    <td>
+    <td align="center">
       <a href="https://www.linkedin.com/in/emine-yaren-celik-815802296/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" />
       </a>
