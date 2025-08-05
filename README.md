@@ -159,6 +159,13 @@ Konuşarak Mesaj Yazma (Speech-to-Text): Klavyeye dokunmanıza gerek yok. Mikrof
 
 ● Lucide-React: Arayüzde kullanılan sade ve modern ikonlar için.
 
+## 👥 Takım ve İş Bölümü
+
+Bu proje, Heartware ekibi tarafından iş bölümüyle yürütülmüştür.  
+Aşağıda, ana görevlerin dağılımını gösteren Trello panomuzu ve ekip üyelerimizin sorumluluk alanlarını görebilirsiniz:
+
+<img width="1918" height="1078" alt="trello_yeni" src="https://github.com/user-attachments/assets/467e90bb-cd41-4693-876e-352f448287d3" />
+
 
 
 
