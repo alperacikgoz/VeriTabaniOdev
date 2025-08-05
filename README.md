@@ -115,6 +115,45 @@ Konuşarak Mesaj Yazma (Speech-to-Text): Klavyeye dokunmanıza gerek yok. Mikrof
 
 ● İçerik Üreticileri ve Yazarlar: Yaptığınız araştırmaları ve topladığınız kaynakları tek bir yerde yönetin, içerikleriniz için hızlıca taslaklar ve ana başlıklar oluşturun.
 
+## Kullanılan Teknolojiler
+
+**Backend**
+● Python: Ana programlama dili.
+
+● FastAPI: Yüksek performanslı ve modern RESTful API'ler oluşturmak için kullanılan web framework'ü.
+
+● LangChain & LangGraph: Yapay zeka ajanlarını, RAG (Retrieval-Augmented Generation) akışlarını ve sohbet hafızasını yönetmek için kullanılan orkestrasyon kütüphaneleri.
+
+● Google Gemini API: Metin anlama, üretme (generation) ve dokümanları vektöre çevirme (embedding) işlemleri için kullanılan ana yapay zeka modeli.
+
+● Google Cloud Speech-to-Text: Konuşarak gönderilen sesli mesajları metne çevirmek için kullanılan API.
+
+● ChromaDB: Doküman parçacıklarının vektörlerini saklamak ve anlamsal arama yapmak için kullanılan vektör veritabanı.
+
+● SQLite: Kullanıcı, derslik ve sohbet geçmişi gibi yapısal verileri saklamak için kullanılan ilişkisel veritabanı.
+
+● SQLAlchemy: Python kodu ile veritabanı arasında etkileşim kurmak için kullanılan ORM (Object-Relational Mapper).
+
+● Pydantic: API'den gelen ve giden verilerin tip güvenliğini ve doğruluğunu sağlamak için.
+
+● JWT (python-jose & passlib): Kullanıcı kimlik doğrulama ve güvenli oturum yönetimi için.
+
+**Frontend**
+● React (Vite ile): Modern, hızlı ve bileşen tabanlı kullanıcı arayüzleri oluşturmak için kullanılan JavaScript kütüphanesi.
+
+● TypeScript: Kodda tip güvenliği sağlayarak hataları azaltmak ve sürdürülebilirliği artırmak için.
+
+● Tailwind CSS: Hızlı ve tutarlı bir şekilde modern tasarımlar oluşturmak için kullanılan "utility-first" CSS framework'ü.
+
+● TanStack Query (React Query): Sunucudan gelen verileri (derslikler, sohbet geçmişi vb.) yönetmek, önbelleğe almak ve otomatik olarak senkronize etmek için.
+
+● Zustand: Kullanıcının kimlik doğrulama durumu ve anlık sohbet arayüzü gibi global durumları yönetmek için.
+
+● React Router: Uygulama içi sayfa geçişlerini ve yönlendirmeleri yönetmek için.
+
+● Axios: Backend API'sine güvenli ve yapılandırılabilir HTTP istekleri yapmak için.
+
+● Lucide-React: Arayüzde kullanılan sade ve modern ikonlar için.
 
 
 
