@@ -117,7 +117,7 @@ Konuşarak Mesaj Yazma (Speech-to-Text): Klavyeye dokunmanıza gerek yok. Mikrof
 
 ## Kullanılan Teknolojiler
 
-**Backend Teknolojileri**
+### 🚀 Backend Teknolojileri
 
 ● Python: Ana programlama dili.
 
