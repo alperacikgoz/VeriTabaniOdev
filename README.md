@@ -101,7 +101,19 @@ Konuşarak Mesaj Yazma (Speech-to-Text): Klavyeye dokunmanıza gerek yok. Mikrof
 
 3. Güvenli Oturum Yönetimi (JWT): Hesabınız ve tüm verileriniz, endüstri standardı JWT (JSON Web Tokens) ile korunur. Her kullanıcının kendi özel ve güvenli bir çalışma alanı vardır.
 
+## Hedef Kitle
 
+Öğrenciler: Ders notlarını, makaleleri ve kitapları hızla analiz ederek sınavlara daha verimli hazırlanın, ödevler için anında kaynak bulun ve karmaşık konuları kolayca anlayın.
+
+Akademisyenler ve Araştırmacılar: Düzinelerce makale ve araştırma belgesini saniyeler içinde özetletin, literatür taramasını hızlandırın ve aradığınız spesifik bilgiye anında ulaşın.
+
+Eğitmenler ve Öğretmenler: Ders materyallerinden anında sınav soruları ve kavram haritaları oluşturun, öğrencilerin sorularına kaynak göstererek cevap verin ve ders planlarınızı zenginleştirin.
+
+Profesyoneller (Avukatlar, Doktorlar, Danışmanlar): Uzun sözleşmeleri, vaka çalışmalarını veya teknik dokümanları hızla analiz ederek kritik bilgilere anında erişin ve zamandan tasarruf edin.
+
+Yaşam Boyu Öğrenme Meraklıları: İlgilendiğiniz herhangi bir konuda topladığınız belgeleri kişisel bir bilgi asistanına dönüştürerek kendi kendinize öğrenme sürecini interaktif ve keyifli hale getirin.
+
+İçerik Üreticileri ve Yazarlar: Yaptığınız araştırmaları ve topladığınız kaynakları tek bir yerde yönetin, içerikleriniz için hızlıca taslaklar ve ana başlıklar oluşturun.
 
 
 
