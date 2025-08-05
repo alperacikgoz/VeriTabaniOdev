@@ -57,40 +57,42 @@ Bu proje, sadece bir araç değil, öğrenme sürecine kalpten bir yaklaşımdı
 ## Ürün Özellikleri
 
 🧠 Akıllı Çalışma Alanı Yönetimi
-Kişisel Derslikler: Her dersiniz veya konunuz için ayrı, izole çalışma alanları (Derslik) oluşturun. Tüm materyallerinizi konu bazlı organize ederek karmaşayı ortadan kaldırın.
 
-Zahmetsiz Doküman Yükleme: PDF ve DOCX formatındaki ders notlarınızı, makalelerinizi veya sunumlarınızı kolayca sürükleyip bırakarak veya seçerek sisteme yükleyin.
+-Kişisel Derslikler: Her dersiniz veya konunuz için ayrı, izole çalışma alanları (Derslik) oluşturun. Tüm materyallerinizi konu bazlı organize ederek karmaşayı ortadan kaldırın.
 
-Tam Kontrol: Artık ihtiyaç duymadığınız derslikleri veya dokümanları, içlerindeki tüm verilerle (sohbet geçmişi, vektör kayıtları vb.) birlikte tek bir tıkla, güvenli bir şekilde sistemden tamamen kaldırın.
+-Zahmetsiz Doküman Yükleme: PDF ve DOCX formatındaki ders notlarınızı, makalelerinizi veya sunumlarınızı kolayca sürükleyip bırakarak veya seçerek sisteme yükleyin.
+
+-Tam Kontrol: Artık ihtiyaç duymadığınız derslikleri veya dokümanları, içlerindeki tüm verilerle (sohbet geçmişi, vektör kayıtları vb.) birlikte tek bir tıkla, güvenli bir şekilde sistemden tamamen kaldırın.
 
 🚀 Yapay Zeka Destekli Doküman Etkileşimi
-Derinlemesine İçerik Analizi (RAG Mimarisi): Yüklediğiniz her doküman, arka planda metinlerine ayrıştırılır, anlamlı parçacıklara bölünür ve vektör veritabanında indekslenir. Bu sayede yapay zeka, cevaplarını doğrudan sizin materyallerinize dayandırır, "halüsinasyon" görmez ve size %100 güvenilir bilgi sunar.
 
-İsteğe Bağlı Hızlı Özet: Bir dokümanın tamamını okumaya vaktiniz yok mu? "Hızlı Özet" butonu ile tek tıkla, o dokümanın genel içeriğini ve ana başlıklarını anında öğrenin.
+-Derinlemesine İçerik Analizi (RAG Mimarisi): Yüklediğiniz her doküman, arka planda metinlerine ayrıştırılır, anlamlı parçacıklara bölünür ve vektör veritabanında indekslenir. Bu sayede yapay zeka, cevaplarını doğrudan sizin materyallerinize dayandırır, "halüsinasyon" görmez ve size %100 güvenilir bilgi sunar.
 
-Kalıcı Sohbet Hafızası: Her dersliğin kendi kalıcı sohbet geçmişi vardır. Oturumu kapatıp açsanız veya başka bir dersliğe geçip geri dönseniz bile, konuşmalarınız sizi bekliyor olur. Bu sayede, bir konuya kaldığınız yerden devam edebilir ve önceki cevaplar üzerinden yeni sorular sorabilirsiniz.
+-İsteğe Bağlı Hızlı Özet: Bir dokümanın tamamını okumaya vaktiniz yok mu? "Hızlı Özet" butonu ile tek tıkla, o dokümanın genel içeriğini ve ana başlıklarını anında öğrenin.
+
+-Kalıcı Sohbet Hafızası: Her dersliğin kendi kalıcı sohbet geçmişi vardır. Oturumu kapatıp açsanız veya başka bir dersliğe geçip geri dönseniz bile, konuşmalarınız sizi bekliyor olur. Bu sayede, bir konuya kaldığınız yerden devam edebilir ve önceki cevaplar üzerinden yeni sorular sorabilirsiniz.
 
 🤖 Çoklu Yapay Zeka Ajansı: Her Göreve Özel Bir Asistan
 Synapse, "tek bir asistan her işi yapar" mantığının ötesine geçer. Her biri farklı bir görevde uzmanlaşmış, emrinizdeki bir yapay zeka ekibiyle çalışırsınız:
 
-Doğrudan Cevap Asistanı: En temel ve en güçlü yardımcınız. "Bu teorinin kurucusu kimdir?" gibi net sorularınıza, belgelerinizden bulduğu kesin bilgilerle anında cevap verir.
+-Doğrudan Cevap Asistanı: En temel ve en güçlü yardımcınız. "Bu teorinin kurucusu kimdir?" gibi net sorularınıza, belgelerinizden bulduğu kesin bilgilerle anında cevap verir.
 
-Sınav Hazırlayıcı: "Bu bölümden bana 5 soruluk bir test hazırla" diyerek öğrendiklerinizi pekiştirin. Asistan, belirttiğiniz konudan size özel çoktan seçmeli sorular üretir.
+-Sınav Hazırlayıcı: "Bu bölümden bana 5 soruluk bir test hazırla" diyerek öğrendiklerinizi pekiştirin. Asistan, belirttiğiniz konudan size özel çoktan seçmeli sorular üretir.
 
-Sokratik Sorgulayıcı: Bir konuyu ezberlemek yerine gerçekten anlamak mı istiyorsunuz? Bu ajan, size cevap vermek yerine, doğru cevabı kendi kendinize bulmanızı sağlayacak yol gösterici ve derin sorular sorar.
+-Sokratik Sorgulayıcı: Bir konuyu ezberlemek yerine gerçekten anlamak mı istiyorsunuz? Bu ajan, size cevap vermek yerine, doğru cevabı kendi kendinize bulmanızı sağlayacak yol gösterici ve derin sorular sorar.
 
-Kavram Haritacısı: "Bu konunun ana başlıkları arasındaki ilişkiyi göster" dediğinizde, karmaşık konuları bir bakışta anlamanızı sağlayan görsel bir zihin haritası oluşturur.
+-Kavram Haritacısı: "Bu konunun ana başlıkları arasındaki ilişkiyi göster" dediğinizde, karmaşık konuları bir bakışta anlamanızı sağlayan görsel bir zihin haritası oluşturur.
 
-Simülasyon Asistanı: Öğrenmeyi bir adım öteye taşıyın. "Bir tarihçi olarak bu olayı analiz et" veya "Bir mühendis olarak bu sistemin avantajlarını ve dezavantajlarını tartış" gibi komutlarla, belgelerdeki bilgilere dayanarak bir rolü canlandırın veya bir vaka analizi yapın.
+-Simülasyon Asistanı: Öğrenmeyi bir adım öteye taşıyın. "Bir tarihçi olarak bu olayı analiz et" veya "Bir mühendis olarak bu sistemin avantajlarını ve dezavantajlarını tartış" gibi komutlarla, belgelerdeki bilgilere dayanarak bir rolü canlandırın veya bir vaka analizi yapın.
 
 ✨ Gelişmiş Kullanıcı Deneyimi
 Konuşarak Mesaj Yazma (Speech-to-Text): Klavyeye dokunmanıza gerek yok. Mikrofon butonuna basın, sorunuzu sorun; Synapse sesinizi anında metne çevirir.
 
-Modern ve Duyarlı Arayüz: İster masaüstü bilgisayarınızda, ister tabletinizde kullanın, Synapse'in arayüzü her ekrana mükemmel uyum sağlar. Göz yormayan, fütüristik bir tasarıma sahiptir.
+-Modern ve Duyarlı Arayüz: İster masaüstü bilgisayarınızda, ister tabletinizde kullanın, Synapse'in arayüzü her ekrana mükemmel uyum sağlar. Göz yormayan, fütüristik bir tasarıma sahiptir.
 
-Açık ve Koyu Mod Desteği: Tek bir tıkla, çalışma ortamınıza en uygun temayı seçerek göz sağlığınızı koruyun ve odağınızı artırın.
+-Açık ve Koyu Mod Desteği: Tek bir tıkla, çalışma ortamınıza en uygun temayı seçerek göz sağlığınızı koruyun ve odağınızı artırın.
 
-Güvenli Oturum Yönetimi (JWT): Hesabınız ve tüm verileriniz, endüstri standardı JWT (JSON Web Tokens) ile korunur. Her kullanıcının kendi özel ve güvenli bir çalışma alanı vardır.
+-Güvenli Oturum Yönetimi (JWT): Hesabınız ve tüm verileriniz, endüstri standardı JWT (JSON Web Tokens) ile korunur. Her kullanıcının kendi özel ve güvenli bir çalışma alanı vardır.
 
 
 
