@@ -47,7 +47,7 @@
 
 ## Ürün İsmi
 
-### **`NutriJourney`**
+### **`Syanpse`**
 
 ## Ürün Açıklaması
 
@@ -71,6 +71,5 @@
 
 
 
-https://youtu.be/mMweXDk89mM
 
 
