@@ -17,33 +17,28 @@
 ## Takım Üyeleri
 
 
-<div align="center">
-
-  <!-- Alper Kartı -->
-  <div style="display:inline-block; margin:18px; background:#181e28; border-radius:18px; box-shadow:0 4px 16px #0001; width:210px; vertical-align:top;">
-    <img src="https://github.com/user-attachments/assets/47280097-8cc6-458c-a496-3b55c0d420c7" width="110" height="110" style="border-radius:50%; margin:18px 0 0 0; object-fit:cover; border:4px solid #2bd3ff;">
-    <div style="font-size:1.18rem; color:#fff; font-weight:600; margin-top:12px;">Alper Açıkgöz</div>
-    <div style="color:#64d3ff; font-weight:500;">Backend</div>
-    <div style="margin:10px;">
-      <a href="https://www.linkedin.com/in/alper-açıkgöz-ceng0101" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" />
+<table>
+  <tr>
+    <!-- Alper Kartı -->
+    <td align="center" style="padding:28px 38px;">
+      <img src="https://github.com/user-attachments/assets/47280097-8cc6-458c-a496-3b55c0d420c7" width="100" height="100" style="border-radius:50%; object-fit:cover; box-shadow:0 2px 12px #0003;" alt="Alper Açıkgöz"/><br>
+      <span style="display:block; margin-top:18px; font-size:1.15em; font-weight:600; color:#fff;">Alper Açıkgöz</span>
+      <span style="display:block; color:#20e3ff; margin-top:4px; font-size:1.04em;">Backend</span>
+      <a href="https://www.linkedin.com/in/alper-açıkgöz-ceng0101" target="_blank" style="display:inline-block; margin-top:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
       </a>
-    </div>
-  </div>
-
-  <!-- Yaren Kartı -->
-  <div style="display:inline-block; margin:18px; background:#181e28; border-radius:18px; box-shadow:0 4px 16px #0001; width:210px; vertical-align:top;">
-    <img src="https://github.com/user-attachments/assets/cd0e47ee-8515-4f31-9155-b00b55dffc1f" width="110" height="110" style="border-radius:50%; margin:18px 0 0 0; object-fit:cover; border:4px solid #2bd3ff;">
-    <div style="font-size:1.18rem; color:#fff; font-weight:600; margin-top:12px;">Emine Yaren Çelik</div>
-    <div style="color:#64d3ff; font-weight:500;">Frontend</div>
-    <div style="margin:10px;">
-      <a href="https://www.linkedin.com/in/emine-yaren-celik-815802296/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" />
+    </td>
+    <!-- Yaren Kartı -->
+    <td align="center" style="padding:28px 38px;">
+      <img src="https://github.com/user-attachments/assets/cd0e47ee-8515-4f31-9155-b00b55dffc1f" width="100" height="100" style="border-radius:50%; object-fit:cover; box-shadow:0 2px 12px #0003;" alt="Emine Yaren Çelik"/><br>
+      <span style="display:block; margin-top:18px; font-size:1.15em; font-weight:600; color:#fff;">Emine Yaren Çelik</span>
+      <span style="display:block; color:#20e3ff; margin-top:4px; font-size:1.04em;">Frontend</span>
+      <a href="https://www.linkedin.com/in/emine-yaren-celik-815802296/" target="_blank" style="display:inline-block; margin-top:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
       </a>
-    </div>
-  </div>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 
 # Ürün İle İlgili Bilgiler
