@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/47280097-8cc6-458c-a496-3b55c0d420c7" width="30" height="60" style="border-radius: 50%; object-fit: cover; box-shadow: 0 2px 8px #0002;" alt="Alper" />
+      <img src="https://github.com/user-attachments/assets/47280097-8cc6-458c-a496-3b55c0d420c7" width="" 50height="70" style="border-radius: 50%; object-fit: cover; box-shadow: 0 2px 8px #0002;" alt="Alper" />
     </td>
     <td>Alper Açıkgöz</td>
     <td>Backend</td>
@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/cd0e47ee-8515-4f31-9155-b00b55dffc1f" width="30" height="60" style="border-radius: 50%; object-fit: cover; box-shadow: 0 2px 8px #0002;" alt="Yaren" />
+      <img src="https://github.com/user-attachments/assets/cd0e47ee-8515-4f31-9155-b00b55dffc1f" width="60" height="70" style="border-radius: 50%; object-fit: cover; box-shadow: 0 2px 8px #0002;" alt="Yaren" />
     </td>
     <td>Emine Yaren Çelik</td>
     <td>Frontend</td>
