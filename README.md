@@ -17,38 +17,33 @@
 ## Takım Üyeleri
 
 
-<table>
-  <tr>
-    <th></th>
-    <th>İsim</th>
-    <th>Rol</th>
-    <th>Ağlar</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/47280097-8cc6-458c-a496-3b55c0d420c7" width="60" height="60" style="border-radius: 50%; object-fit: cover; box-shadow: 0 2px 8px #0002;" alt="Alper" />
-    </td>
-    <td>Alper Açıkgöz</td>
-    <td>Backend</td>
-    <td align="center">
+<div align="center">
+
+  <!-- Alper Kartı -->
+  <div style="display:inline-block; margin:18px; background:#181e28; border-radius:18px; box-shadow:0 4px 16px #0001; width:210px; vertical-align:top;">
+    <img src="https://github.com/user-attachments/assets/47280097-8cc6-458c-a496-3b55c0d420c7" width="110" height="110" style="border-radius:50%; margin:18px 0 0 0; object-fit:cover; border:4px solid #2bd3ff;">
+    <div style="font-size:1.18rem; color:#fff; font-weight:600; margin-top:12px;">Alper Açıkgöz</div>
+    <div style="color:#64d3ff; font-weight:500;">Backend</div>
+    <div style="margin:10px;">
       <a href="https://www.linkedin.com/in/alper-açıkgöz-ceng0101" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" />
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/cd0e47ee-8515-4f31-9155-b00b55dffc1f" width="60" height="60" style="border-radius: 50%; object-fit: cover; box-shadow: 0 2px 8px #0002;" alt="Yaren" />
-    </td>
-    <td>Emine Yaren Çelik</td>
-    <td>Frontend</td>
-    <td align="center">
+    </div>
+  </div>
+
+  <!-- Yaren Kartı -->
+  <div style="display:inline-block; margin:18px; background:#181e28; border-radius:18px; box-shadow:0 4px 16px #0001; width:210px; vertical-align:top;">
+    <img src="https://github.com/user-attachments/assets/cd0e47ee-8515-4f31-9155-b00b55dffc1f" width="110" height="110" style="border-radius:50%; margin:18px 0 0 0; object-fit:cover; border:4px solid #2bd3ff;">
+    <div style="font-size:1.18rem; color:#fff; font-weight:600; margin-top:12px;">Emine Yaren Çelik</div>
+    <div style="color:#64d3ff; font-weight:500;">Frontend</div>
+    <div style="margin:10px;">
       <a href="https://www.linkedin.com/in/emine-yaren-celik-815802296/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" />
       </a>
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
+
+</div>
 
 
 # Ürün İle İlgili Bilgiler
