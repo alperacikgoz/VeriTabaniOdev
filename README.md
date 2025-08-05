@@ -119,7 +119,7 @@ Konuşarak Mesaj Yazma (Speech-to-Text): Klavyeye dokunmanıza gerek yok. Mikrof
 
 ### 🚀 Backend Teknolojileri
 
-- **Python:**  Ana programlama dili.
+● Python: Ana programlama dili.
 
 ● FastAPI: Yüksek performanslı ve modern RESTful API'ler oluşturmak için kullanılan web framework'ü.
 
