@@ -117,7 +117,7 @@ Konuşarak Mesaj Yazma (Speech-to-Text): Klavyeye dokunmanıza gerek yok. Mikrof
 
 ## Kullanılan Teknolojiler
 
-**Backend**
+**Backend Teknolojileri**
 
 ● Python: Ana programlama dili.
 
@@ -139,7 +139,7 @@ Konuşarak Mesaj Yazma (Speech-to-Text): Klavyeye dokunmanıza gerek yok. Mikrof
 
 ● JWT (python-jose & passlib): Kullanıcı kimlik doğrulama ve güvenli oturum yönetimi için.
 
-**Frontend**
+**Frontend Teknolojileri**
 
 ● React (Vite ile): Modern, hızlı ve bileşen tabanlı kullanıcı arayüzleri oluşturmak için kullanılan JavaScript kütüphanesi.
 
