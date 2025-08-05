@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>
-      <img src="assets/alper.jpg" width="50" height="50" style="border-radius:10px;" />
+      <img src="https://github.com/user-attachments/assets/47280097-8cc6-458c-a496-3b55c0d420c7" width="50" height="50" style="border-radius: 10px; object-fit: cover;" alt="Alper" />
     </td>
     <td>Alper Açıkgöz</td>
     <td>Backend</td>
@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td>
-      <img src="assets/yaren.jpg" width="50" height="50" style="border-radius:10px;" />
+      <img src="https://github.com/user-attachments/assets/cd0e47ee-8515-4f31-9155-b00b55dffc1f" width="50" height="50" style="border-radius: 10px; object-fit: cover;" alt="Yaren" />
     </td>
     <td>Emine Yaren Çelik</td>
     <td>Frontend</td>
@@ -49,6 +49,7 @@
     </td>
   </tr>
 </table>
+
 
 # Ürün İle İlgili Bilgiler
 
