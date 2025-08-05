@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/47280097-8cc6-458c-a496-3b55c0d420c7" width="50" height="70" style="border-radius: 50%; object-fit: cover; box-shadow: 0 2px 8px #0002;" alt="Alper" />
+      <img src="https://github.com/user-attachments/assets/47280097-8cc6-458c-a496-3b55c0d420c7" width="60" height="70" style="border-radius: 50%; object-fit: cover; box-shadow: 0 2px 8px #0002;" alt="Alper" />
     </td>
     <td>Alper Açıkgöz</td>
     <td>Backend</td>
